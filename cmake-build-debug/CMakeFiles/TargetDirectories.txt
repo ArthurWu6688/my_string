@@ -1,0 +1,3 @@
+D:/Code/CLionProject/project_cpp/my_string/cmake-build-debug/CMakeFiles/test_cpp.dir
+D:/Code/CLionProject/project_cpp/my_string/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Code/CLionProject/project_cpp/my_string/cmake-build-debug/CMakeFiles/rebuild_cache.dir
